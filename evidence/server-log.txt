@@ -1,0 +1,31 @@
+Server output (stdout + stderr) during the curl transcript.
+The server was restarted once (Part 2 of the transcript).
+
+connected to MongoDB
+Recipes API listening on http://localhost:3000
+10:08:25 PM GET /
+10:08:25 PM POST /api/recipes
+10:08:25 PM POST /api/recipes
+10:08:25 PM GET /api/recipes
+10:08:25 PM GET /api/recipes
+10:08:25 PM GET /api/recipes
+10:08:25 PM GET /api/recipes
+10:08:25 PM GET /api/recipes/6af22839fd32d043ac3077e1
+10:08:25 PM PUT /api/recipes/6af22839fd32d043ac3077e1
+10:08:25 PM PATCH /api/recipes/6af22839fd32d043ac3077e1
+10:08:25 PM DELETE /api/recipes/6af22839fd32d043ac3077e1
+10:08:25 PM GET /api/recipes/6af22839fd32d043ac3077e1
+connected to MongoDB
+Recipes API listening on http://localhost:3000
+10:08:26 PM GET /api/recipes/6af22839fd32d043ac3077e2
+10:08:26 PM POST /api/recipes
+10:08:26 PM POST /api/recipes
+10:08:26 PM POST /api/recipes
+10:08:26 PM POST /api/recipes
+10:08:26 PM POST /api/recipes
+10:08:26 PM GET /api/recipes/abc
+10:08:26 PM GET /api/recipes/507f1f77bcf86cd799439011
+10:08:26 PM PUT /api/recipes/6af22839fd32d043ac3077e2
+10:08:26 PM PATCH /api/recipes/6af22839fd32d043ac3077e2
+10:08:26 PM GET /api/nope
+10:08:26 PM DELETE /api/recipes/6af22839fd32d043ac3077e2
